@@ -77,7 +77,4 @@ You can change the smoothing parameter lambda inside the script and re-run to se
 - Compare the current implementation with forecast::holt() and forecast::HoltWinters() results.
 - Save the plots to files (png/pdf) and export result tables as CSV for reporting.
 
-## License & Contact
-This practical material is provided for educational use. For questions, improvements, or to contribute, contact the repository owner or maintainer.
 
-```
